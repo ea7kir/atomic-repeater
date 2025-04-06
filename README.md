@@ -2,8 +2,8 @@
 # atomic-repeater
 
 ## Work in Progress
-- This is simply a holding page for what is to come
-- ED7TMP Repeater on the BATC Streamer when testing
+- This is simply a holding page until ready to publish
+- ED7TMP Repeater is on the BATC Streamer when testing
 
 ## Intent
 - An easy to build DATV repeater
